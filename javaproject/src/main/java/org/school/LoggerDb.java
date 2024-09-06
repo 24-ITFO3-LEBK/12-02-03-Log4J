@@ -11,6 +11,8 @@ public class LoggerDb {
         Logger log = Logger.getLogger("TestLOgger");
         String sql = "SELECT * FROM meineDaten";
 
+
+
         Connection c = null;
         try {
             Path path = Paths.get("C:\\Users\\trung\\OneDrive\\Desktop\\LEBK\\STDMJAVA\\GitFolder\\javaproject\\src\\main\\resources\\meineDB.db");
