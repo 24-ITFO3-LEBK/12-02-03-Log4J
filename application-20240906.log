@@ -1,0 +1,5 @@
+2024-09-06 11:49:40.165 [main] DEBUG org.example.Main - We've just greeted the user!
+2024-09-06 11:49:40.166 [main] INFO  org.example.Main - We've just greeted the user!
+2024-09-06 11:49:40.166 [main] WARN  org.example.Main - We've just greeted the user!
+2024-09-06 11:49:40.166 [main] ERROR org.example.Main - We've just greeted the user!
+2024-09-06 11:49:40.166 [main] FATAL org.example.Main - We've just greeted the user!
