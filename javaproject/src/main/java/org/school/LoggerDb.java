@@ -13,6 +13,7 @@ public class LoggerDb {
 
 
 
+
         Connection c = null;
         try {
             Path path = Paths.get("C:\\Users\\trung\\OneDrive\\Desktop\\LEBK\\STDMJAVA\\GitFolder\\javaproject\\src\\main\\resources\\meineDB.db");
