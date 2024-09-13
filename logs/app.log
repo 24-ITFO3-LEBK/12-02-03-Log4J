@@ -1,0 +1,4 @@
+2024-09-13 09:09:34.439 [main] INFO  org.example.Main - We've just greeted the user!
+2024-09-13 09:09:34.444 [main] WARN  org.example.Main - We've just greeted the user!
+2024-09-13 09:09:34.444 [main] ERROR org.example.Main - We've just greeted the user!
+2024-09-13 09:09:34.444 [main] FATAL org.example.Main - We've just greeted the user!
