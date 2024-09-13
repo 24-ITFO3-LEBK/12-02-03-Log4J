@@ -1,0 +1,10 @@
+2024-09-06 11:57:26.485 [main] DEBUG Application - We've just greeted the user!
+2024-09-06 11:57:26.494 [main] INFO  Application - We've just greeted the user!
+2024-09-06 11:57:26.494 [main] WARN  Application - We've just greeted the user!
+2024-09-06 11:57:26.494 [main] ERROR Application - We've just greeted the user!
+2024-09-06 11:57:26.494 [main] FATAL Application - We've just greeted the user!
+2024-09-06 12:03:02.529 [main] DEBUG Application - We've just greeted the user!
+2024-09-06 12:03:02.539 [main] INFO  Application - We've just greeted the user!
+2024-09-06 12:03:02.539 [main] WARN  Application - We've just greeted the user!
+2024-09-06 12:03:02.539 [main] ERROR Application - We've just greeted the user!
+2024-09-06 12:03:02.540 [main] FATAL Application - We've just greeted the user!
